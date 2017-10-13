@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="25707" started-at="2017-10-13T18:51:08Z" finished-at="2017-10-13T18:51:34Z">
+    <groups>
+    </groups>
+    <test name="Regression Test" duration-ms="25707" started-at="2017-10-13T18:51:08Z" finished-at="2017-10-13T18:51:34Z">
+      <class name="automationFramework.NewComputer">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.NewComputer@1753acfe]" name="beforeMethod" is-config="true" duration-ms="3441" started-at="2017-10-13T21:51:08Z" finished-at="2017-10-13T21:51:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:automationFramework.NewComputer@1753acfe]" name="main" duration-ms="2387" started-at="2017-10-13T21:51:12Z" finished-at="2017-10-13T21:51:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.NewComputer@1753acfe]" name="afterMethod" is-config="true" duration-ms="651" started-at="2017-10-13T21:51:14Z" finished-at="2017-10-13T21:51:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- automationFramework.NewComputer -->
+      <class name="automationFramework.ViewComputer">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.ViewComputer@2a2d45ba]" name="beforeMethod" is-config="true" duration-ms="2907" started-at="2017-10-13T21:51:19Z" finished-at="2017-10-13T21:51:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:automationFramework.ViewComputer@2a2d45ba]" name="main" duration-ms="941" started-at="2017-10-13T21:51:22Z" finished-at="2017-10-13T21:51:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.ViewComputer@2a2d45ba]" name="afterMethod" is-config="true" duration-ms="650" started-at="2017-10-13T21:51:23Z" finished-at="2017-10-13T21:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- automationFramework.ViewComputer -->
+      <class name="automationFramework.FilterComputer">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.FilterComputer@7c16905e]" name="beforeMethod" is-config="true" duration-ms="2889" started-at="2017-10-13T21:51:15Z" finished-at="2017-10-13T21:51:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:automationFramework.FilterComputer@7c16905e]" name="main" duration-ms="808" started-at="2017-10-13T21:51:18Z" finished-at="2017-10-13T21:51:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.FilterComputer@7c16905e]" name="afterMethod" is-config="true" duration-ms="637" started-at="2017-10-13T21:51:19Z" finished-at="2017-10-13T21:51:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- automationFramework.FilterComputer -->
+      <class name="automationFramework.DeleteComputer">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.DeleteComputer@20e2cbe0]" name="beforeMethod" is-config="true" duration-ms="2879" started-at="2017-10-13T21:51:29Z" finished-at="2017-10-13T21:51:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:automationFramework.DeleteComputer@20e2cbe0]" name="main" duration-ms="1413" started-at="2017-10-13T21:51:32Z" finished-at="2017-10-13T21:51:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.DeleteComputer@20e2cbe0]" name="afterMethod" is-config="true" duration-ms="650" started-at="2017-10-13T21:51:33Z" finished-at="2017-10-13T21:51:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- automationFramework.DeleteComputer -->
+      <class name="automationFramework.UpdateComputer">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.UpdateComputer@2a5ca609]" name="beforeMethod" is-config="true" duration-ms="2890" started-at="2017-10-13T21:51:24Z" finished-at="2017-10-13T21:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:automationFramework.UpdateComputer@2a5ca609]" name="main" duration-ms="1878" started-at="2017-10-13T21:51:27Z" finished-at="2017-10-13T21:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.UpdateComputer@2a5ca609]" name="afterMethod" is-config="true" duration-ms="662" started-at="2017-10-13T21:51:28Z" finished-at="2017-10-13T21:51:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- automationFramework.UpdateComputer -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- Regression Suite -->
+</testng-results>

@@ -1,0 +1,12 @@
+<suite name="Regression Suite">
+	<test name="Regression Test">
+		<classes>
+			<class name="automationFramework.TestCaseBase"/>
+			<class name="automationFramework.NewComputer"/>
+			<class name="automationFramework.FilterComputer"/>
+			<class name="automationFramework.ViewComputer"/>
+			<class name="automationFramework.UpdateComputer"/>
+			<class name="automationFramework.DeleteComputer"/>
+		</classes>
+	</test>
+</suite>
