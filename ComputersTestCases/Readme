@@ -10,6 +10,7 @@ Automation was done using the following tools (You might need to install them in
 - Filter on a computer in database
 - Update a computer in the database
 - Delete a computer from the database
+- Data created within the automation will be deleted by the end of it :)
 -----------------------------------------------
 Automation Output (Can be found in the repository as HTML as well!):
 
