@@ -1,1 +1,6 @@
+In this folder, you can find the ".jmx" files which can be used for Load and Performance testing via Jmeter.
 
+Jmeter (Official Website Documentation -http://jmeter.apache.org/-): "Apache JMeter may be used to test performance both on static and dynamic resources, Web dynamic applications. 
+It can be used to simulate a heavy load on a server, group of servers, network or object to test its strength or to analyze overall performance under different load types."
+
+In order to run the JMX files you need to install Jmeter (Can be found in the website mentioned above) and run the files. Ideally, and for high load testing, Jmeter should be installed on a high specs computer (preferably on cloud) in roder to give precise results.
